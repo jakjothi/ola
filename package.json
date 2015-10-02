@@ -1,0 +1,24 @@
+{
+  "name": "ola",
+  "version": "0.1.0",
+  "description": "Ola",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakjothi/ola.git"
+  },
+  "keywords": [
+    "ola",
+    "api",
+    "rest"
+  ],
+  "author": "Aruljothi Kuppusamy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jakjothi/ola/issues"
+  },
+  "homepage": "https://github.com/jakjothi/ola#readme"
+}
